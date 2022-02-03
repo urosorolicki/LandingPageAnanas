@@ -1,6 +1,5 @@
-# Venus
+# LandingPage Ananas
 
-A landing page template.
 
 * [Getting started](#getting-started)
 
